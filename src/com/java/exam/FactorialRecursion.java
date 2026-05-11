@@ -1,5 +1,7 @@
 package com.java.exam;
 
+import java.util.Scanner;
+
 public class FactorialRecursion {
     static long factorial(int n) {
         if (n == 0 || n == 1)
